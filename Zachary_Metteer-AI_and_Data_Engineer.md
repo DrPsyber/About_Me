@@ -17,6 +17,7 @@ Results-driven engineer with `10+ years of data engineering expertise` and `6 mo
 -	MLOps & AI Model Deployment Pipelines
 
 ### Programming & Development
+
 -	`Languages:` Python, PySpark, Scala, SQL, JavaScript, TypeScript, Shell Scripting
 -	`AI/ML Libraries:` Transformers, LangChain, OpenAI API, TensorFlow
 -	`Cloud Platforms:` Azure, AWS (EC2, S3, Lambda, SageMaker), Google Cloud
