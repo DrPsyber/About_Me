@@ -11,4 +11,4 @@ I fealt compelled to share, it's not all going to be great, some not even useful
 > **Note:** This will not happen overnight so please be patient, I will contribute as often as I can.
 
 Lets get started by introducing you to professional me: 
-[Zach's Resume]
+[Zach's Resume](Zachary_Metteer-AI_and_Data_Engineer.md)
