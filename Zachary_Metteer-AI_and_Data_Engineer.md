@@ -8,7 +8,7 @@ Results-driven engineer with 10+ years of data engineering expertise and 6 month
 
 ## Core Technical Skills
 
-#### **AI/ML Specialization** (Recent Research Focus)
+### **AI/ML Specialization** (Recent Research Focus)
 -	Large Language Models (GPT-4, Claude, Llama) & Transformer Architectures
 -	Retrieval-Augmented Generation (RAG) Systems & Vector Databases
 -	LangChain Framework & AI Agent Development
@@ -16,13 +16,13 @@ Results-driven engineer with 10+ years of data engineering expertise and 6 month
 -	Model Fine-tuning & Optimization Strategies
 -	MLOps & AI Model Deployment Pipelines
 
-#### Programming & Development
+### Programming & Development
 -	**Languages:** Python, PySpark, Scala, SQL, JavaScript, TypeScript, Shell Scripting
 -	**AI/ML Libraries:** Transformers, LangChain, OpenAI API, TensorFlow
 -	**Cloud Platforms:** Azure, AWS (EC2, S3, Lambda, SageMaker), Google Cloud
 -	**Data Platforms:** Databricks, Snowflake, Apache Spark, Tableau
 
-#### Infrastructure & DevOps
+### Infrastructure & DevOps
 -	**CI/CD:** GitHub Actions, Azure DevOps, Docker, Jenkins, J-Frog
 -	**Monitoring:** Grafana, Azure Monitor, Splunk
 -	**Version Control:** GitHub, Subversion
