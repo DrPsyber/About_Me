@@ -57,7 +57,7 @@ Amalgamated Excellence LLC | Dallas, Texas | Self-employed | Hybrid
 -	Collaborate with cross-functional teams to innovate user-centric applications, enhancing customer engagement and satisfaction. 
 -	Achieved a 30% increase in solution efficiency through iterative testing and optimization, significantly reducing time-to-market for new features.
 
-> **Skills:** `Snowflake · GitHub Copilot · Amazon Web Services (AWS) · Jenkins · DBVisualizer · SQL Server Integration Service · Windows Server · Software Development · Azure DevOps Services · Technical Documentation · Artificial Intelligence (AI) · Microsoft Azure · SSIS · Python (Programming Language) · Scrum · Hadoop · GitHub Actions · React.js · Azure SQL · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Microsoft SQL Server · Shell Scripting · Git · Code Review · Python · GitHub · Azure Data Factory · Tableau · Extract, Transform, Load (ETL) · Informatica · Agile Methodologies · Azure Databricks · PySpark · Unix · Apache Airflow · Troubleshooting · Data Migration · Oracle · SQL · Virtualization · Azure Data Lake · Cloud Computing · Machine Learning`
+> **Skills:** `Snowflake` · `GitHub Copilot` · `Amazon Web Services (AWS)` · `Jenkins` · `DBVisualizer` · `SQL Server Integration Service` · `Windows Server` · `Software Development` · `Azure DevOps Services` · `Technical Documentation` · `Artificial Intelligence (AI)` · `Microsoft Azure` · `SSIS` · `Python (Programming Language)` · `Scrum` · `Hadoop` · `GitHub Actions` · `React.js` · `Azure SQL` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Microsoft SQL Server` · `Shell Scripting` · `Git` · `Code Review` · `Python` · `GitHub` · `Azure Data Factory` · `Tableau` · `Extract, Transform, Load (ETL)` · `Informatica` · `Agile Methodologies` · `Azure Databricks` · `PySpark` · `Unix` · `Apache Airflow` · `Troubleshooting` · `Data Migration` · `Oracle` · `SQL` · `Virtualization` · `Azure Data Lake` · `Cloud Computing` · `Machine Learning`
 
 ### Senior Data Engineer
 Jul 2024 - Oct 2024 · 4 mos  
@@ -66,7 +66,7 @@ WellMed Medical Management | Dallas, Texas | Contract | Remote
 -	Collaborated with cross-functional teams to implement LLM-based solutions for automated metadata extraction. 
 -	Developed a CI/CD pipeline that significantly reduced deployment time, improving operational efficiency.
 
-> **Skills:** `Snowflake · GitHub Copilot · Amazon Web Services (AWS) · Jenkins · DBVisualizer · SQL Server Integration Service · Windows Server · Software Development · Azure DevOps Services · Technical Documentation · Microsoft Azure · SSIS · Python (Programming Language) · Scrum · Hadoop · GitHub Actions · Azure SQL · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Microsoft SQL Server · Shell Scripting · Git · Code Review · Python · GitHub · Azure Data Factory · Tableau · Extract, Transform, Load (ETL) · Informatica · Agile Methodologies · Azure Databricks · PySpark · Unix · Apache Airflow · Troubleshooting · Data Migration · Oracle · SQL · Virtualization · Azure Data Lake · Cloud Computing · Machine Learning`
+> **Skills:** `Snowflake` · `GitHub Copilot` · `Amazon Web Services (AWS)` · `Jenkins` · `DBVisualizer` · `SQL Server Integration Service` · `Windows Server` · `Software Development` · `Azure DevOps Services` · `Technical Documentation` · `Microsoft Azure` · `SSIS` · `Python (Programming Language)` · `Scrum` · `Hadoop` · `GitHub Actions` · `Azure SQL` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Microsoft SQL Server` · `Shell Scripting` · `Git` · `Code Review` · `Python` · `GitHub` · `Azure Data Factory` · `Tableau` · `Extract, Transform, Load (ETL)` · `Informatica` · `Agile Methodologies` · `Azure Databricks` · `PySpark` · `Unix` · `Apache Airflow` · `Troubleshooting` · `Data Migration` · `Oracle` · `SQL` · `Virtualization` · `Azure Data Lake` · `Cloud Computing` · `Machine Learning`
 
 ### Senior Data Engineer
 Oct 2023 - Jul 2024 · 10 mos  
@@ -75,7 +75,7 @@ UnitedHealth Group | Dallas, Texas | Contract | Remote
 -	Piloted the implementation of Databricks MLflow for seamless tracking and deployment of machine learning models in data engineering pipelines. 
 -	Optimized the software development lifecycle by integrating GitHub CoPilot, resulting in improved code quality and reduced development time.
 
-> **Skills:** `Snowflake · GitHub Copilot · Amazon Web Services (AWS) · Jenkins · DBVisualizer · SQL Server Integration Service · Windows Server · Software Development · Technical Documentation · Artificial Intelligence (AI) · Microsoft Azure · SSIS · Python (Programming Language) · Scrum · Hadoop · GitHub Actions · Azure SQL · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Microsoft SQL Server · Shell Scripting · Git · Code Review · Python · GitHub · Azure Data Factory · Tableau · Extract, Transform, Load (ETL) · Informatica · Agile Methodologies · Azure Databricks · PySpark · Unix · Apache Airflow · Troubleshooting · Data Migration · Oracle · SQL · Virtualization · Azure Data Lake · Cloud Computing · Machine Learning`
+> **Skills:** `Snowflake` · `GitHub Copilot` · `Amazon Web Services (AWS)` · `Jenkins` · `DBVisualizer` · `SQL Server Integration Service` · `Windows Server` · `Software Development` · `Technical Documentation` · `Artificial Intelligence (AI)` · `Microsoft Azure` · `SSIS` · `Python (Programming Language)` · `Scrum` · `Hadoop` · `GitHub Actions` · `Azure SQL` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Microsoft SQL Server` · `Shell Scripting` · `Git` · `Code Review` · `Python` · `GitHub` · `Azure Data Factory` · `Tableau` · `Extract, Transform, Load (ETL)` · `Informatica` · `Agile Methodologies` · `Azure Databricks` · `PySpark` · `Unix` · `Apache Airflow` · `Troubleshooting` · `Data Migration` · `Oracle` · `SQL` · `Virtualization` · `Azure Data Lake` · `Cloud Computing` · `Machine Learning`
 
 ### ETL Developer
 Jun 2021 - May 2023 · 2 yrs  
@@ -84,7 +84,7 @@ Cigna Healthcare | Dallas, Texas | Contract | Remote
 -	Designed and optimized SQL queries, enhancing data retrieval performance significantly. 
 -	Led an initiative to integrate generative AI for automated documentation and code review of ETL processes.
 
-> **Skills:** `Snowflake · Jenkins · AIX · Windows Server · Software Development · Azure DevOps Services · Technical Documentation · Artificial Intelligence (AI) · SSIS · Python (Programming Language) · Scrum · GitHub Actions · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Microsoft SQL Server · Shell Scripting · Git · Code Review · Python · GitHub · Tableau · Extract, Transform, Load (ETL) · Agile Methodologies · Azure Databricks · PySpark · Unix · Troubleshooting · Oracle · SQL · Cloud Computing · Machine Learning`
+> **Skills:** `Snowflake` · `Jenkins` · `AIX` · `Windows Server` · `Software Development` · `Azure DevOps Services` · `Technical Documentation` · `Artificial Intelligence (AI)` · `SSIS` · `Python (Programming Language)` · `Scrum` · `GitHub Actions` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Microsoft SQL Server` · `Shell Scripting` · `Git` · `Code Review` · `Python` · `GitHub` · `Tableau` · `Extract, Transform, Load (ETL)` · `Agile Methodologies` · `Azure Databricks` · `PySpark` · `Unix` · `Troubleshooting` · `Oracle` · `SQL` · `Cloud Computing` · `Machine Learning`
 
 ### ETL Developer
 Dec 2019 - Mar 2021 · 1 yr 4 mos  
@@ -93,7 +93,7 @@ Bank of America | Addison, Texas | Contract | Remote
 -	Managed code changes through Atlassian Jira and Bitbucket, ensuring seamless deployment via Jenkins. 
 -	Enhanced data ingestion processes utilizing APIs, CSV, JSON, and JDBC with MySQL, Hadoop, and HBase.
 
-> **Skills:** `Jenkins · AIX · Windows Server · Software Development · Technical Documentation · Python (Programming Language) · Scrum · Hadoop · Apache Spark · Jira · Subversion · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Shell Scripting · Oracle Database Server · Code Review · Python · Tableau · Extract, Transform, Load (ETL) · Agile Methodologies · PySpark · Unix · Troubleshooting · SQL · Cloud Computing · Machine Learning`
+> **Skills:** `Jenkins` · `AIX` · `Windows Server` · `Software Development` · `Technical Documentation` · `Python (Programming Language)` · `Scrum` · `Hadoop` · `Apache Spark` · `Jira` · `Subversion` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Shell Scripting` · `Oracle Database Server` · `Code Review` · `Python` · `Tableau` · `Extract, Transform, Load (ETL)` · `Agile Methodologies` · `PySpark` · `Unix` · `Troubleshooting` · `SQL` · `Cloud Computing` · `Machine Learning`
 
 ### Database Developer
 Oct 2017 - Nov 2019 · 2 yrs 2 mos  
@@ -102,7 +102,7 @@ AT&T | Dallas, Texas | Contract | Remote
 -	Optimized SQL queries to enhance performance in Cognos and Tableau, improving report generation efficiency. 
 -	Collaborated with cross-functional teams to deliver actionable insights, driving strategic decision-making for protection plan services.
 
-> **Skills:** `Jenkins · AIX · SQL Server Integration Service · Windows Server · Software Development · Technical Documentation · Python (Programming Language) · Scrum · Hadoop · Jira · React.js · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Shell Scripting · Code Review · Python · Tableau · Extract, Transform, Load (ETL) · Agile Methodologies · PySpark · Unix · Troubleshooting · SQL · Cloud Computing`
+> **Skills:** `Jenkins` · `AIX` · `SQL Server Integration Service` · `Windows Server` · `Software Development` · `Technical Documentation` · `Python (Programming Language)` · `Scrum` · `Hadoop` · `Jira` · `React.js` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Shell Scripting` · `Code Review` · `Python` · `Tableau` · `Extract, Transform, Load (ETL)` · `Agile Methodologies` · `PySpark` · `Unix` · `Troubleshooting` · `SQL` · `Cloud Computing`
 
 ### Database Developer
 Oct 2015 - Mar 2017 · 1 yr 6 mos  
@@ -111,7 +111,7 @@ Altair Global | Plano, Texas | Full-time | On-site
 -	Upgraded SSIS packages and SQL scripts, ensuring seamless migration and optimization for server upgrades. 
 -	Developed robust ETL solutions for MSSQL and DB2 databases, improving data transfer efficiency.
 
-> **Skills:** `Amazon Web Services (AWS) · DBVisualizer · AIX · SQL Server Integration Service · Windows Server · Software Development · Technical Documentation · Microsoft Azure · SSIS · Scrum · Sybase IQ · Azure SQL · Software Development Life Cycle (SDLC) · Data Pipelines · Databases · Microsoft SQL Server · Shell Scripting · Git · Code Review · DataStage · Extract, Transform, Load (ETL) · C# · Informatica · Agile Methodologies · Troubleshooting · DB2 · Data Migration · SQL · Virtualization · Cloud Computing`
+> **Skills:** `Amazon Web Services (AWS)` · `DBVisualizer` · `AIX` · `SQL Server Integration Service` · `Windows Server` · `Software Development` · `Technical Documentation` · `Microsoft Azure` · `SSIS` · `Scrum` · `Sybase IQ` · `Azure SQL` · `Software Development Life Cycle (SDLC)` · `Data Pipelines` · `Databases` · `Microsoft SQL Server` · `Shell Scripting` · `Git` · `Code Review` · `DataStage` · `Extract, Transform, Load (ETL)` · `C#` · `Informatica` · `Agile Methodologies` · `Troubleshooting` · `DB2` · `Data Migration` · `SQL` · `Virtualization` · `Cloud Computing`
 
 ### Senior Database Admin/Developer
 Aug 2014 - Sep 2015 · 1 yr 2 mos  
@@ -120,7 +120,7 @@ At Home Group Inc. | Plano, Texas | Full-time | Hybrid
 -	Designed and implemented ETL solutions using DataStage and Microsoft Visual Studio, streamlining data transfer processes. 
 -	Administered Microsoft Team Foundation Server and SharePoint Server, improving team collaboration and project management efficiency.
 
-> **Skills:** `Amazon Web Services (AWS) · DBVisualizer · AIX · Windows Server · Software Development · Technical Documentation · Microsoft Azure · SSIS · Scrum · Sybase IQ · Azure SQL · Database Administration · Software Development Life Cycle (SDLC) · Databases · Microsoft SQL Server · Shell Scripting · Oracle Database Server · Git · Code Review · IBM AS/400 · DataStage · Extract, Transform, Load (ETL) · C# · Informatica · Agile Methodologies · Unix · Troubleshooting · DB2 · SQL Server · Data Migration · Oracle · SQL · Cloud Computing`
+> **Skills:** `Amazon Web Services (AWS)` · `DBVisualizer` · `AIX` · `Windows Server` · `Software Development` · `Technical Documentation` · `Microsoft Azure` · `SSIS` · `Scrum` · `Sybase IQ` · `Azure SQL` · `Database Administration` · `Software Development Life Cycle (SDLC)` · `Databases` · `Microsoft SQL Server` · `Shell Scripting` · `Oracle Database Server` · `Git` · `Code Review` · `IBM AS/400` · `DataStage` · `Extract, Transform, Load (ETL)` · `C#` · `Informatica` · `Agile Methodologies` · `Unix` · `Troubleshooting` · `DB2` · `SQL Server` · `Data Migration` · `Oracle` · `SQL` · `Cloud Computing`
 
 ### Database Admin/Developer
 Aug 2013 - Jul 2014 · 1 yr  
@@ -130,7 +130,7 @@ File & ServeXpress | Irving, TX | Full-time | On-site
 -	Developed and implemented SQL Server Agent jobs for regular database maintenance, improving system reliability. 
 -	Executed strategic optimization through disk planning and indexing, resulting in a cleaner, faster database environment.
 
-> **Skills:** `SQL Server Integration Service · Windows Server · Software Development · Technical Documentation · SSIS · Scrum · Database Administration · Software Development Life Cycle (SDLC) · Databases · Microsoft SQL Server · Code Review · T-SQL · C# · Agile Methodologies · Troubleshooting · SQL Server · Data Migration · SQL`
+> **Skills:** `SQL Server Integration Service` · `Windows Server` · `Software Development` · `Technical Documentation` · `SSIS` · `Scrum` · `Database Administration` · `Software Development Life Cycle (SDLC)` · `Databases` · `Microsoft SQL Server` · `Code Review` · `T-SQL` · `C#` · `Agile Methodologies` · `Troubleshooting` · `SQL Server` · `Data Migration` · `SQL`
 
 ### SQL Database Administrator
 Jan 2013 - Jul 2013 · 7 mos  
@@ -140,7 +140,7 @@ Citi | Irving, TX | Contract | Remote
 -	Installed multiple SQL Server 2008 R2 clusters, enhancing system performance and reliability. 
 -	Developed and optimized backup and maintenance procedures, improving data management efficiency.
 
-> **Skills:** `SQL Server Integration Service · Windows Server · Technical Documentation · SSIS · Database Administration · Databases · Microsoft SQL Server · Linux · T-SQL · Troubleshooting · SQL Server · Data Migration · SQL`
+> **Skills:** `SQL Server Integration Service` · `Windows Server` · `Technical Documentation` · `SSIS` · `Database Administration` · `Databases` · `Microsoft SQL Server` · `Linux` · `T-SQL` · `Troubleshooting` · `SQL Server` · `Data Migration` · `SQL`
 
 ### Service Engineer
 Jul 2012 - Oct 2012 · 4 mos  
@@ -150,7 +150,7 @@ HealthSystems | Frisco, TX | Full-time | Remote
 -	Developed custom forms and reports, optimizing data conversions and medical lab interfaces for improved analytics. 
 -	Consolidated clinical database data for meaningful use reporting, contributing to better healthcare outcomes.
 
-> **Skills:** `SQL Server Integration Service · Windows Server · Technical Documentation · SSIS · Database Administration · Databases · Microsoft SQL Server · T-SQL · Troubleshooting · SQL Server · Oracle · SQL · PL/SQL`
+> **Skills:** `SQL Server Integration Service` · `Windows Server` · `Technical Documentation` · `SSIS` · `Database Administration` · `Databases` · `Microsoft SQL Server` · `T-SQL` · `Troubleshooting` · `SQL Server` · `Oracle` · `SQL` · `PL/SQL`
 
 ### Senior Technical Analyst
 Dec 2009 - Jul 2012 · 2 yrs 8 mos  
@@ -159,7 +159,7 @@ GE Healthcare | Plano, TX | Full-time | On-site
 -	Managed team workload and resolved escalated customer issues, enhancing service delivery for diverse healthcare clients.
 -	Designed custom PL/SQL and Transact-SQL queries to troubleshoot data issues, improving data integrity and reporting accuracy.
 
-> **Skills:** `SQL Server Integration Service · Windows Server · Technical Documentation · SSIS · Database Administration · VMware vSphere · Databases · Microsoft SQL Server · oracle 11g · VMware ESXi · Unix · Troubleshooting · SQL Server · Data Migration · Oracle · SQL · Virtualization · PL/SQL`
+> **Skills:** `SQL Server Integration Service` · `Windows Server` · `Technical Documentation` · `SSIS` · `Database Administration` · `VMware vSphere` · `Databases` · `Microsoft SQL Server` · `oracle 11g` · `VMware ESXi` · `Unix` · `Troubleshooting` · `SQL Server` · `Data Migration` · `Oracle` · `SQL` · `Virtualization` · `PL/SQL`
 
 ### Online Engineer I
 Feb 2007 - Dec 2009 · 2 yrs 11 mos  
@@ -169,7 +169,7 @@ GE Healthcare | Hillsboro, OR | Full-time | On-site
 -	Played a key role in disaster recovery efforts, enhancing system reliability and data integrity.
 -	Collaborated with cross-functional teams to improve customer support processes, resulting in increased satisfaction ratings.
 
-> **Skills:** Windows Server · Technical Documentation · Database Administration · VMware vSphere · Databases · oracle 11g · VMware ESXi · Unix · Troubleshooting · SQL Server · Data Migration · Oracle · SQL · Virtualization · PL/SQL 
+> **Skills:** `Windows Server` · `Technical Documentation` · `Database Administration` · `VMware vSphere` · `Databases` · `oracle 11g` · `VMware ESXi` · `Unix` · `Troubleshooting` · `SQL Server` · `Data Migration` · `Oracle` · `SQL` · `Virtualization` · `PL/SQL` 
 
 ## Education & Continuous Learning
 
